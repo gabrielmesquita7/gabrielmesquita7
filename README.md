@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/gabriel-mesquita-pereira-675946229/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/gabriel.mesquitap/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631"></a>&nbsp;&nbsp;
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmesquita7&layout=compact" alt="gabrielmesquita7" />
+
 Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia de Computação no CEFET. Tenho paixão por programação, jogos, artes visuais e música. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade.
 
 ## Principais áreas de interesse
@@ -29,3 +32,5 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia de Computaçã
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+<br></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmesquita7&show_icons=true&locale=en" alt="gabrielmesquita7" /></p>
