@@ -1,5 +1,8 @@
 ## Olá! 👋
-
+<p align="right">
+  <a href="https://www.linkedin.com/in/gabriel-mesquita-pereira-675946229/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gabriel.mesquitap/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png?20190314235631"></a>&nbsp;&nbsp;
+</p>
 Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia de Computação no CEFET. Tenho paixão por programação, jogos, artes visuais e música. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade.
 
 ## Principais áreas de interesse
